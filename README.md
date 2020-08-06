@@ -1,16 +1,12 @@
 ### Hi there 👋
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sourabhbit alt=sourabhbit/></p>
+:gemini: :birthday: 25th December🎄 
+* 🔭 I’m currently working on WebRTC Video Conferencing App :heart_eyes:
+* 🌱 I’m currently learning - Unit Testing ReactJs and AngularJs
+* 💬 Ask me about ... MEAN & MERN Stack, HTML, CSS3, Bootstrap, MongoDB, MySQL
+- 📫 How to reach me: 
+ How to reach me:
+:sunglasses: <code>[Mail](mailto:kumarsourabh556@gmail.com)</code>    
+:sunglasses: <code>[LinkedIn](https://www.linkedin.com/in/sourabhbit/)</code>  
 
-<!--
-**sourabhbit/sourabhbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am a lethargic sleepy person :sweat_smile: !
