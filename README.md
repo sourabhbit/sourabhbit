@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
-<h3 align="center">Simply Developer</h3>
+<h3 align="center">⚓Simply Developer🧑‍💻</h3>
+<h4 align="center">👨‍💻 Working @ <a href="https://www.datametica.com/in/">Datmetica Solutions Pvt Ltd, Pune</a></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhbit" alt="sourabhbit" /> </p>
 
@@ -7,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unit Testing ReactJS**
 
-- 💬 Ask me about **MEAN & MERN Stack, JS, PHP, HTML, CSS, MongoDB, MySQL**
+- 💬 Ask me about **MEAN & MERN Stack, Redux-Saga, JS, PHP, HTML, CSS, MongoDB, MySQL**
 
 - 📫 How to reach me **kumarsourabh556@gmail.com**
 
