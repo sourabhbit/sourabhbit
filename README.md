@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I am a lethargic sleepy person :sweat_smile: !**
 
+### Github Profile Trophy 🏆 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sourabhbit" alt="sourabhbit" /> 
+
 ### Skills 🤨
 <p align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -42,9 +45,8 @@
  
   
   
-  
+  ### Stats 📊 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbit&theme=cobalt&layout=compact&hide=html" alt="sourabhbit" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhbit&theme=tokyonight&show_icons=true" alt="sourabhbit" />
 
 
