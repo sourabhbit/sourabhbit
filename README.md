@@ -13,10 +13,7 @@
 
 - ⚡ Fun fact **I am a lethargic sleepy person :sweat_smile: !**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+### Skills 🤨
 <p align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -44,9 +41,9 @@
   
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbit&layout=compact&hide=html" alt="sourabhbit" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbit&theme=cobalt&layout=compact&hide=html" alt="sourabhbit" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhbit&show_icons=true" alt="sourabhbit" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhbit&theme=tokyonight&show_icons=true" alt="sourabhbit" />
 
 <p align="center">
 <a href="https://linkedin.com/in/sourabhbit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabhbit" height="30" width="30" /></a>
